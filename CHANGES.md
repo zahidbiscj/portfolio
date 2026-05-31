@@ -24,7 +24,7 @@ Updated the portfolio application to use actual assets (profile picture and resu
 **Purpose**: Updated resume download functionality
 
 **Changes**:
-- Added import for the resume PDF: `import resumePDF from '@/assets/documents/MdAbdullahFaruque_Resume.pdf'`
+- Added import for the resume PDF: `import resumePDF from '@/assets/documents/CV_Zahid_6_year.pdf'`
 - Removed `onDownloadPDF` from the component props interface
 - Created new `handleDownloadResume` function that:
   - Creates a temporary anchor element
@@ -45,12 +45,12 @@ Updated the portfolio application to use actual assets (profile picture and resu
 ## Assets Used
 
 ### Profile Picture
-- **Location**: `/src/assets/images/PHOTO-PS-MD_ABDULLAH_FARUQUE.JPG`
+- **Location**: `/src/assets/images/zahid_passport_photo.png`
 - **Used in**: Avatar components throughout the application
 - **Format**: JPG image
 
 ### Resume PDF
-- **Location**: `/src/assets/documents/MdAbdullahFaruque_Resume.pdf`
+- **Location**: `/src/assets/documents/CV_Zahid_6_year.pdf`
 - **Used in**: Download Resume button on the homepage
 - **Format**: PDF document
 - **Download name**: `MdAbdullahFaruque_Resume.pdf`

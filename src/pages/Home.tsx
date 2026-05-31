@@ -30,7 +30,7 @@ import {
 } from '@phosphor-icons/react'
 import { PortfolioData } from '@/lib/types'
 import { toast } from 'sonner'
-import resumePDF from '@/assets/documents/MdAbdullahFaruque_Resume.pdf'
+import resumePDF from '@/assets/documents/CV_Zahid_6_year.pdf'
 
 interface HomeProps {
   data: PortfolioData
@@ -47,7 +47,7 @@ export function Home({ data, t, isAdmin, onUpdate }: HomeProps) {
       const url = window.URL.createObjectURL(blob)
       const link = document.createElement('a')
       link.href = url
-      link.download = 'MdAbdullahFaruque_Resume.pdf'
+      link.download = 'ZahidAhmed_Resume.pdf'
       document.body.appendChild(link)
       link.click()
       document.body.removeChild(link)

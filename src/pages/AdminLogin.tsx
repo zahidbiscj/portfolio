@@ -60,7 +60,7 @@ export function AdminLogin({ onLogin }: AdminLoginProps) {
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="admin@abdullahfaruque.com"
+                placeholder="admin@zahid.com"
                 required
               />
             </div>

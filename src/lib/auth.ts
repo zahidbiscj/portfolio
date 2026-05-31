@@ -12,8 +12,8 @@ export async function verifyPassword(password: string, hash: string): Promise<bo
 }
 
 export async function initializeAdminCredentials() {
-  const adminEmail = 'admin@abdullahfaruque.com'
-  const adminPassword = 'Admin@123456'
+  const adminEmail = 'admin@zahid.com'
+  const adminPassword = 'Admin@123'
   
   const hashedPassword = await hashPassword(adminPassword)
   
@@ -24,7 +24,7 @@ export async function initializeAdminCredentials() {
 }
 
 export async function validateAdminLogin(email: string, password: string, storedHash: string): Promise<boolean> {
-  if (email !== 'admin@abdullahfaruque.com') {
+  if (email !== 'admin@zahid.com') {
     return false
   }
   
