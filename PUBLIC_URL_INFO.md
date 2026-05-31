@@ -2,7 +2,7 @@
 
 ## Important Information About Your URL
 
-Your portfolio at `https://professional-portfol--mdabdullahfaruque.github.app` is **already publicly accessible** to everyone worldwide - no GitHub account required!
+Your portfolio at  is **already publicly accessible** to everyone worldwide - no GitHub account required!
 
 ### ✅ What This Means:
 
@@ -17,7 +17,7 @@ Your portfolio at `https://professional-portfol--mdabdullahfaruque.github.app` i
 
 **To verify it's truly public:**
 1. Open an incognito/private browser window
-2. Visit: `https://professional-portfol--mdabdullahfaruque.github.app`
+2. Visit: `https://professional-portfol--zahid.github.app`
 3. No login prompt should appear
 4. Full portfolio should be visible immediately
 
@@ -32,12 +32,6 @@ Your portfolio at `https://professional-portfol--mdabdullahfaruque.github.app` i
 
 ### 📊 How to Use This URL:
 
-#### On Your Resume:
-```
-Portfolio: https://professional-portfol--mdabdullahfaruque.github.app
-Email: mabdullahfaruque@gmail.com
-LinkedIn: linkedin.com/in/mdabdullahfaruque
-```
 
 #### On LinkedIn:
 1. Go to your LinkedIn profile
