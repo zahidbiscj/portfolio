@@ -1,10 +1,10 @@
-# 🎯 Professional Portfolio - MD Abdullah Faruque
+# 🎯 Professional Portfolio - Zahid Ahmed
 
 A modern, responsive portfolio website with comprehensive admin capabilities for managing all content without redeployment.
 
 ## 🌐 Live Portfolio
 
-**Public URL:** `https://professional-portfol--mdabdullahfaruque.github.app`
+**Public URL:** `https://professional-portfol--zahidbiscj.github.app`
 
 ✅ **Publicly accessible** - No GitHub login required for visitors  
 ✅ **Globally available** - Share with recruiters worldwide  
@@ -15,8 +15,8 @@ A modern, responsive portfolio website with comprehensive admin capabilities for
 
 **Access:** Add `/admin` to the portfolio URL  
 **Default Credentials:**
-- Email: `admin@abdullahfaruque.com`
-- Password: `Admin@123456`
+- Email: `admin@zahid.com`
+- Password: `Admin@123`
 
 ### ✨ Complete Admin Features:
 
@@ -42,7 +42,7 @@ A modern, responsive portfolio website with comprehensive admin capabilities for
 
 1. **Access Admin Panel:**
    ```
-   Visit: https://professional-portfol--mdabdullahfaruque.github.app/admin
+   Visit: https://professional-portfol--zahidbiscj.github.app/admin
    Login with credentials above
    ```
 
@@ -61,7 +61,7 @@ A modern, responsive portfolio website with comprehensive admin capabilities for
 
 1. **View Portfolio:**
    ```
-   Visit: https://professional-portfol--mdabdullahfaruque.github.app
+   Visit: https://professional-portfol--zahidbiscj.github.app
    ```
 
 2. **Navigate Sections:**
@@ -211,7 +211,7 @@ A modern, responsive portfolio website with comprehensive admin capabilities for
 
 ### On Your Resume:
 ```
-Portfolio: https://professional-portfol--mdabdullahfaruque.github.app
+Portfolio: https://professional-portfol--zahidbiscj.github.app
 ```
 
 ### On LinkedIn:
@@ -282,10 +282,10 @@ export async function initializeAdminCredentials() {
 
 ## 📞 Contact
 
-**Email:** mabdullahfaruque@gmail.com  
-**LinkedIn:** [linkedin.com/in/mdabdullahfaruque](https://www.linkedin.com/in/mdabdullahfaruque)  
-**GitHub:** [github.com/mdabdullahfaruque](https://github.com/mdabdullahfaruque)  
-**Portfolio:** [professional-portfol--mdabdullahfaruque.github.app](https://professional-portfol--mdabdullahfaruque.github.app)
+**Email:** zahidbiscj@gmail.com  
+**LinkedIn:** [linkedin.com/in/zahid-ahmed-b9859b73](https://www.linkedin.com/in/zahid-ahmed-b9859b73)  
+**GitHub:** [github.com/zahidbiscj](https://github.com/zahidbiscj)  
+**Portfolio:** [professional-portfol--zahidbiscj.github.app](https://professional-portfol--zahidbiscj.github.app)
 
 ## 📄 License
 

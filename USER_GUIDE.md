@@ -22,13 +22,13 @@ Complete guide for managing your professional portfolio using the admin dashboar
 
 1. **Navigate to Admin Page:**
    ```
-   https://professional-portfol--mdabdullahfaruque.github.app/admin
+   https://professional-portfol--zahidbiscj.github.app/admin
    ```
    Or click the "Admin" button in the navbar
 
 2. **Login:**
-   - Email: `admin@abdullahfaruque.com`
-   - Password: `Admin@123456`
+   - Email: `admin@zahid.com`
+   - Password: `Admin@123`
    - Click "Sign In"
 
 3. **Dashboard Overview:**
@@ -441,8 +441,8 @@ Same process as Experience section:
 ### Can't Login
 
 **Solutions:**
-- Verify email: `admin@abdullahfaruque.com`
-- Check password (case-sensitive): `Admin@123456`
+- Verify email: `admin@zahid.com`
+- Check password (case-sensitive): `Admin@123`
 - Clear browser cache and cookies
 - Try incognito/private window
 

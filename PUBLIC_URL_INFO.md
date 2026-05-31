@@ -47,11 +47,11 @@ Your portfolio at  is **already publicly accessible** to everyone worldwide - no
 
 #### In Email Signatures:
 ```html
-MD Abdullah Faruque
+Zahid Ahmed
 Senior Full Stack Developer
-📧 mabdullahfaruque@gmail.com
-🌐 Portfolio: https://professional-portfol--mdabdullahfaruque.github.app
-💼 LinkedIn: linkedin.com/in/mdabdullahfaruque
+📧 zahidbiscj@gmail.com
+🌐 Portfolio: https://professional-portfol--zahidbiscj.github.app
+💼 LinkedIn: linkedin.com/in/zahid-ahmed-b9859b73
 ```
 
 #### On Business Cards:
@@ -63,7 +63,7 @@ Senior Full Stack Developer
 **Cover Letter:**
 ```
 I invite you to view my portfolio at:
-https://professional-portfol--mdabdullahfaruque.github.app
+https://professional-portfol--zahidbiscj.github.app
 
 This showcases my recent projects including mypropertymart.com 
 and sasthoseba.com, demonstrating my expertise in full-stack 
@@ -72,7 +72,7 @@ development and cloud architecture.
 
 **Application Forms:**
 When asked for "Website" or "Portfolio URL", use:
-`https://professional-portfol--mdabdullahfaruque.github.app`
+`https://professional-portfol--zahidbiscj.github.app`
 
 ### 🔒 Security & Privacy:
 
@@ -117,7 +117,7 @@ When asked for "Website" or "Portfolio URL", use:
 1. **LinkedIn Posts:**
    ```
    🚀 Just updated my portfolio with recent projects!
-   Check it out: https://professional-portfol--mdabdullahfaruque.github.app
+   Check it out: https://professional-portfol--zahidbiscj.github.app
    
    Featuring:
    • MyPropertyMart - Real estate platform
@@ -207,7 +207,7 @@ When asked for "Website" or "Portfolio URL", use:
 
 ### 🎨 Custom Domain (Optional Future Enhancement):
 
-If you want a custom domain like `abdullahfaruque.com`:
+If you want a custom domain like `zahid.com`:
 1. Purchase domain from registrar
 2. Point DNS to current GitHub App URL
 3. Update references in resume/LinkedIn
@@ -304,7 +304,7 @@ Make it easy for recruiters to contact you:
 
 ## 🎉 Your Portfolio is Live and Ready!
 
-**Your URL:** `https://professional-portfol--mdabdullahfaruque.github.app`
+**Your URL:** `https://professional-portfol--zahidbiscj.github.app`
 
 **Next Steps:**
 1. Visit your portfolio in incognito mode
@@ -315,7 +315,7 @@ Make it easy for recruiters to contact you:
 
 **Admin Access:**
 - URL: Add `/admin` to your portfolio URL
-- Login: `admin@abdullahfaruque.com`
+- Login: `admin@zahid.com`
 - Make updates anytime, anywhere
 
 **Questions or Issues?**

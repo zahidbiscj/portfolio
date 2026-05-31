@@ -264,7 +264,7 @@ If you encounter issues:
 ---
 
 **Your Repository Details:**
-- Profile Picture: `/src/assets/images/PHOTO-PS-MD_ABDULLAH_FARUQUE.JPG`
-- Resume PDF: `/src/assets/documents/MdAbdullahFaruque_Resume.pdf`
+- Profile Picture: `/src/assets/images/zahid_passport_photo.png`
+- Resume PDF: `/src/assets/documents/ZahidAhmed_Resume.pdf`
 - Main Application: React + TypeScript + Tailwind CSS
 - Node Version: 18+ recommended

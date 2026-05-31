@@ -1,9 +1,9 @@
 # How to Push This Portfolio to Your GitHub Account
 
-Since you're using the account **mdabdullahfaruque** and want this code in a GitHub repository, follow these steps:
+Since you're using the account **zahidbiscj** and want this code in a GitHub repository, follow these steps:
 
 ## Prerequisites
-- You need to be logged into your GitHub account (mdabdullahfaruque)
+- You need to be logged into your GitHub account (zahidbiscj)
 - You should have Git installed on your local machine
 
 ## Steps to Create and Push to GitHub Repository
@@ -37,7 +37,7 @@ git commit -m "Initial commit: Portfolio website with resume download functional
 Replace `YOUR-REPO-NAME` with the repository name you created in step 1:
 
 ```bash
-git remote add origin https://github.com/mdabdullahfaruque/YOUR-REPO-NAME.git
+git remote add origin https://github.com/zahidbiscj/YOUR-REPO-NAME.git
 ```
 
 ### 6. Push to GitHub

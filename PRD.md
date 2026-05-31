@@ -1,11 +1,11 @@
 # Planning Guide
 
-An advanced, multi-page portfolio web application for MD Abdullah Faruque with full admin panel functionality, allowing complete data management without redeployment, multi-language support, and professional presentation of 6+ years of software engineering experience.
+An advanced, multi-page portfolio web application for Zahid Ahmed with full admin panel functionality, allowing complete data management without redeployment, multi-language support, and professional presentation of 6+ years of software engineering experience.
 
 **Experience Qualities**: 
 1. **Interactive & Advanced** - Multi-page architecture with smooth page transitions, dynamic routing, and engaging animations that showcase technical sophistication
 2. **Professional & Modern** - Polished design with a sophisticated color palette (deep navy & electric blue), refined typography (Space Grotesk & IBM Plex Sans), and enterprise-grade visual hierarchy
-3. **Fully Manageable** - Complete admin panel with authentication (admin@abdullahfaruque.com / Admin@123456) allowing real-time editing of all portfolio content including experiences, projects, skills, and personal information
+3. **Fully Manageable** - Complete admin panel with authentication (admin@zahid.com / Admin@123) allowing real-time editing of all portfolio content including experiences, projects, skills, and personal information
 
 **Complexity Level**: Complex Application (advanced functionality with multiple views and complete admin capabilities)
 - Features comprehensive multi-page routing, full admin authentication, real-time content editing across all sections, multi-language support (English/German), project showcase with filtering, contact form integration, and PDF resume generation
@@ -13,7 +13,7 @@ An advanced, multi-page portfolio web application for MD Abdullah Faruque with f
 ## Essential Features
 
 ### Admin Authentication & Management
-- **Functionality**: Secure login system with credentials (admin@abdullahfaruque.com / Admin@123456) providing full portfolio editing capabilities
+- **Functionality**: Secure login system with credentials (admin@zahid.com / Admin@123) providing full portfolio editing capabilities
 - **Purpose**: Enables the portfolio owner to update all content without requiring code changes or redeployment
 - **Trigger**: Access /admin route or click Admin button in navigation
 - **Progression**: User enters credentials → System validates → Admin logged in → Edit controls appear on all pages → Changes saved to KV → Data persists → Logout available

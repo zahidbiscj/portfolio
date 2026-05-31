@@ -13,8 +13,8 @@ The portfolio now features a comprehensive Admin Dashboard with full CRUD (Creat
 - Session-based authentication with `sessionStorage`
 
 ### Default Admin Credentials
-**Email:** `admin@abdullahfaruque.com`  
-**Password:** `Admin@123456`
+**Email:** `admin@zahid.com`  
+**Password:** `Admin@123`
 
 **To change credentials:** Modify the `initializeAdminCredentials` function in `src/lib/auth.ts`
 
@@ -267,7 +267,7 @@ The admin dashboard is optimized for:
 ## 🌍 Public Access
 
 **Your portfolio is publicly accessible at:**
-`https://professional-portfol--mdabdullahfaruque.github.app`
+`https://professional-portfol--zahidbiscj.github.app`
 
 - ✅ No GitHub login required for visitors
 - ✅ Globally accessible to recruiters worldwide

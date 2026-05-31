@@ -16,7 +16,7 @@ Updated the portfolio application to use actual assets (profile picture and resu
 **Purpose**: Updated to use the actual profile picture
 
 **Changes**:
-- Added import for the profile picture: `import profilePhoto from '@/assets/images/PHOTO-PS-MD_ABDULLAH_FARUQUE.JPG'`
+- Added import for the profile picture: `import profilePhoto from '@/assets/images/zahid_passport_photo.png'`
 - Updated `photoUrl` field from hardcoded string to use the imported `profilePhoto` variable
 - This ensures the profile picture from assets is used throughout the application
 
@@ -53,7 +53,7 @@ Updated the portfolio application to use actual assets (profile picture and resu
 - **Location**: `/src/assets/documents/CV_Zahid_6_year.pdf`
 - **Used in**: Download Resume button on the homepage
 - **Format**: PDF document
-- **Download name**: `MdAbdullahFaruque_Resume.pdf`
+- **Download name**: `ZahidAhmed_Resume.pdf`
 
 ## Behavior Changes
 
